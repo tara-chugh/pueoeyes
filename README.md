@@ -1,2 +1,9 @@
 # pueoeyes
 Code for PUEO's cameras
+
+
+Here's the documentation which describes which files are important here.
+
+The take_pic.sh script should be put on the flight computer (or lab laptop) that is sending the command to take the picture.
+
+The other code should be on the raspberry pi, which is running the camera software.
